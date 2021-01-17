@@ -27,7 +27,7 @@ SECRET_KEY = '(%8h!i*$vy7uo53z8(!2j$_)sd+3fq089r_-4*!=$!yut0&sa_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['codinggyan.online', '127.0.0.1']
+ALLOWED_HOSTS = ['codinggyan.online','https://django-project123.herokuapp.com/' '127.0.0.1']
 
 
 # Application definition
